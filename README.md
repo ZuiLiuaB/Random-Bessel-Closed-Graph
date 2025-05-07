@@ -14,3 +14,5 @@ Save as local image example
 ![test](https://github.com/user-attachments/assets/f3d7b2ae-0db1-4337-8f11-037b13bd27fd)
 
 ### MIT 
+
+重新压缩了体积
